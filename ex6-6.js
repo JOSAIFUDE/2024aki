@@ -7,6 +7,3 @@ function hanako67(){who67='花子';}
 var who68 = 'が来た';
 function taro67(){alert('太郎'+who68+'!');}
 function hanako67(){alert('花子'+who68+'!');}
-
-
-
