@@ -1,2 +1,2 @@
 function gazo688()
-{document.getelementbyid('who688').innnerHTML='<img src="./image/bulbon.gif"alt="オン">';}
+{document.getElementById('who688').innerHTML='<img src="./image/bulbon.gif"alt="オン">';}
