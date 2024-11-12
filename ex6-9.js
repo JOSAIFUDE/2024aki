@@ -1,1 +1,1 @@
-Function txtchange1(){document.getElementById('txt1').innerHTML='ナンバーワン!';}
+Function txtchangel(){document.getElementById('txtl').innerHTML='ナンバーワン!';}
