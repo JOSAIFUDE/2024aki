@@ -1,3 +1,1 @@
-function syahello71(){
-alert('hello,'+
-document.getElementByld('who71').value+'!');}
+function syahello71(){alert('hello,'+document.getElementById('who71').value+'!');}
