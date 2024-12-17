@@ -1,1 +1,1 @@
-function nazo(){if(document.getElementBuId('answer').value='夢'){alert('あたい!');}}
+function nazo(){if(document.getElementBuId('answer').value='夢'){alert('あたり!');}}
