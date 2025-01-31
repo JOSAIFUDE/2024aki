@@ -1,1 +1,1 @@
-unction BMI(){var x = Number(document.getElementById('bmi1').value);var y = Number(document.getElementById('bmi2').value);var bmi = x / (y * y);alert(bmi);}
+unction BMI(){var x = Number(document.getElementById('体重').value);var y = Number(document.getElementById('身長').value);var bmi = x / (y * y);alert(bmi);}
